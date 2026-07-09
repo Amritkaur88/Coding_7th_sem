@@ -1,3 +1,5 @@
+package DAY1;
+
 public class MaxSubArrayKadanesApproach {
     public static int maxSubArray(int arr[]){
         int currSum=arr[0];

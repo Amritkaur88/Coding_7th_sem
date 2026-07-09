@@ -1,3 +1,5 @@
+package DAY1;
+
 public class MaxSubArrayBruteForceApproach {
     public static int maxSubArray(int arr[]){
         int maxSum=Integer.MIN_VALUE;
